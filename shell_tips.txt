@@ -807,3 +807,9 @@ which -a ping ( stands for all path )
 why too fast ? --> it has a trick because locate work with a offline Data Base and it'll create a data base and find from there !
 for updating that data base we have to use 'sudo updatedb' manually or 
 it will make backup once a day
+
+"cd" or "cd ~" => To navigate to your home directory
+"cd .." => To navigate up one directory level
+"cd -" => To navigate to the previous directory (or back)
+"cd /" => To navigate into the root directory
+
